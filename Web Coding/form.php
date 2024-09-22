@@ -15,6 +15,7 @@
 
   echo ("<h2>Sexo: $sexo</h2></br>");
 ?>
+<h2> Sexo: <?php echo $sexo; ?> </h2>
 
 </body>
 </html>
